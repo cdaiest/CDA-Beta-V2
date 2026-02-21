@@ -1,9 +1,10 @@
-
 import React, { useState, useEffect, useRef } from 'react';
-import navbar from './components/navbar';
-import hero from './components/hero';
+// CORRECCIÓN AQUÍ: 'Navbar' y 'Hero' empiezan con mayúscula, la ruta en minúscula
+import Navbar from './components/navbar';
+import Hero from './components/hero';
 import VideoCard from './components/VideoCard';
-import VideoPlayerModal from './components/VideoPlayerModal';
+// CORRECCIÓN AQUÍ: Ruta ajustada para el error de Vercel (verifica cómo está en tu GitHub)
+import VideoPlayerModal from './components/videoplayermodal'; 
 import AssistantChat from './components/AssistantChat';
 import ResourceRepository from './components/ResourceRepository';
 import CategoryGrid from './components/CategoryGrid';
