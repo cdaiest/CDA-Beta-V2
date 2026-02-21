@@ -1,0 +1,7 @@
+{
+  "name": "CDA Iest Anáhuac",
+  "description": "Una plataforma específicamente para docentes, permitiéndoles acceder a webinars, cursos y recursos educativos con una interfaz estilo Netflix y asistencia inteligente de IA.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
