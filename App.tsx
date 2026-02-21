@@ -1,7 +1,7 @@
 
 import React, { useState, useEffect, useRef } from 'react';
 import navbar from './components/navbar';
-import Hero from './components/Hero';
+import hero from './components/hero';
 import VideoCard from './components/VideoCard';
 import VideoPlayerModal from './components/VideoPlayerModal';
 import AssistantChat from './components/AssistantChat';
